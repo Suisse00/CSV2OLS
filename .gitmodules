@@ -1,0 +1,3 @@
+[submodule "lib/Hardware.Core"]
+	path = lib/Hardware.Core
+	url = git://github.com/suisse00/Hardware.Core.git
