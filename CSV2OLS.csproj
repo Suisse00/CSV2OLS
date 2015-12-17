@@ -53,9 +53,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="lib\Hardware.Core\Hardware.Core.csproj">
+    <ProjectReference Include="lib\Hardware.Core\Core.csproj">
       <Project>{3056f012-fc13-4c1d-9e1b-229ff8dbe2f1}</Project>
-      <Name>Hardware.Core</Name>
+      <Name>Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
