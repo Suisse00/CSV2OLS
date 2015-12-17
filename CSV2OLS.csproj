@@ -7,8 +7,8 @@
     <ProjectGuid>{0D3FA975-35F2-4675-B0F6-D822FF014E0B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CSV2OLS</RootNamespace>
-    <AssemblyName>CSV2OLS</AssemblyName>
+    <RootNamespace>Suisse00.CSV2OLS</RootNamespace>
+    <AssemblyName>Suisse00.CSV2OLS</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

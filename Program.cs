@@ -2,9 +2,8 @@
 using Suisse00.Hardware.Quantities;
 using System;
 using System.Linq;
-using System.Runtime.CompilerServices;
 
-namespace CSV2OLS
+namespace Suisse00.CSV2OLS
 {
     internal class Program
     {

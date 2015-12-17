@@ -1,8 +1,8 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using System.Collections;
 
-namespace CSV2OLS.UnitTest
+namespace Suisse00.CSV2OLS.UnitTest
 {
     [TestClass]
     public class GetOLSValueTest
